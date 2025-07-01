@@ -25,11 +25,13 @@ Files are temporarily used to complete user-requested actions (like upload).
 
 c. Location Access 
 
-Used to provide services like navigation, showing nearby places, or geo-tagging content. 
+Used to provide services like navigation, showing nearby places. 
 
 We do not track your real-time location or store location history. 
 
- 
+ d. Microphone access 
+
+Used to allow users to search the nearby facilities based on their location. 
 
 2. How We Use Your Data 
 
